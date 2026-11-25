@@ -36,9 +36,9 @@ Alongside research, I have worked in IT management, teaching, and operations coo
 
 | # | Title | Area | Status |
 |---|---|---|---|
-| 1 | **An Explainable Deep Learning Framework for Multiclass Brain Tumor Classification Using Bangladeshi MRI Dataset** | Medical imaging, XAI | Submission to a Q1 journal in process |
-| 2 | **A Systematic Review of Carbon-Aware GPU Inference Scheduling Under Latency Constraints** | Green computing | In progress (~48%) |
-| 3 | **Digital Inclusion and Social Inequality: Access to Technology in Rural Areas** | ICT4D, HCI | In progress (~76%) |
+| 1 | **An Explainable Deep Learning Framework for Multiclass Brain Tumor Classification Using Bangladeshi MRI Dataset** | Medical imaging, XAI |Still in process |
+| 2 | **A Systematic Review of Carbon-Aware GPU Inference Scheduling Under Latency Constraints** | Green computing | In progress (~38%) |
+| 3 | **Digital Inclusion and Social Inequality: Access to Technology in Rural Areas** | ICT4D, HCI | In progress (~67%) |
 
 > Preprint and paper links will be added here as they become public.
 
